@@ -1,0 +1,7 @@
+2
+{'apple': 10}
+[{'name': 'wh1', 'inventory': {'apple': 3}}, {'name': 'wh2', 'inventory': {'apple': 1}}, {'name': 'wh3', 'inventory': {'apple': 7}}]
+[{'wh1': {'apple': 3}}, {'wh2': {'apple': 1}}, {'wh3': {'apple': 6}}]
+{}
+[]
+[]
