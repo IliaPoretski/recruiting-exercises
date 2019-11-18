@@ -2,21 +2,21 @@
 
 ## Files
 
-###### `InventoryAllocator.py`
+#### `InventoryAllocator.py`
 File containing `InventoryAllocator` class and implementation for inventory allocation based on order and warehouse inventory.
 
-###### `InventoryAllocatorTest.py`
+#### `InventoryAllocatorTest.py`
 Unit tests to test `InventoryAllocator` class.
 
-###### `InventoryAllocatorManualTest.py`
+#### `InventoryAllocatorManualTest.py`
 Runs test based on input given in `InventoryAllocatorManualInput.txt`.
 
-###### `InventoryAllocatorManualInput.txt`
+#### `InventoryAllocatorManualInput.txt`
 File to input your own test cases. String must be surronged by single or double quotes.
 
 An example input is provided in the file.
 
-**File Format**
+#### File Format
 
 Line 1: number of test cases
 
