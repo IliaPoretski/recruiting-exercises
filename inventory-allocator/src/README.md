@@ -13,12 +13,18 @@ Runs test based on input given in `InventoryAllocatorManualInput.txt`.
 
 ###### `InventoryAllocatorManualInput.txt`
 File to input your own test cases. String must be surronged by single or double quotes.
-An example input is provided.
+
+An example input is provided in the file.
+
 **File Format**
+
 Line 1: number of test cases
 
+
 Line 2: order
+
 Line 3: warehouse inventory
+
 Line 4: expected output
 
 Repeat lines 2-4 based on number of test cases
